@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "/home/seb/KiCad/Lab 2/USB/NRS4018.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "XT60-M")(type "KiCad")(uri "/home/seb/KiCad/XT60-M")(options "")(descr ""))
+  (lib (name "tl3301")(type "KiCad")(uri "/home/seb/KiCad/ul_TL3301AF160QG/KiCAD/2022-04-09_19-01-42/footprints.pretty")(options "")(descr ""))
+  (lib (name "adp2303")(type "KiCad")(uri "/home/seb/KiCad/ul_ADP2303ARDZ-3-3-R7/KiCAD/2022-04-09_08-39-50/footprints.pretty")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "/home/seb/KiCad/kicad-libraries-main/kicad-libraries-main/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/home/seb/KiCad/ul_PTS647SM38SMTR2LFS/KiCAD/2022-04-10_05-26-32/footprints.pretty")(options "")(descr ""))
+  (lib (name "cap")(type "KiCad")(uri "/home/seb/KiCad/ul_35TZV100M6-3X8/KiCAD/2022-04-11_09-01-05/footprints.pretty")(options "")(descr ""))
+  (lib (name "caperino")(type "KiCad")(uri "/home/seb/KiCad/ul_APXG160ARA101ME61G/KiCAD/2022-04-11_22-50-31/footprints.pretty")(options "")(descr ""))
+  (lib (name "usb")(type "KiCad")(uri "/home/seb/KiCad/ul_USB4105-GF-A/KiCAD/2022-04-16_03-43-34/footprints.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "HOPE_Project")(type "KiCad")(uri "/home/seb/KiCad/Lab 2/HOPE_Project.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "/home/seb/KiCad/Lab 2/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "/home/seb/KiCad/kicad-libraries-main/kicad-libraries-main/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "2022-04-09_08-39-50")(type "Legacy")(uri "/home/seb/KiCad/ul_ADP2303ARDZ-3-3-R7/KiCAD/2022-04-09_08-39-50/2022-04-09_08-39-50.lib")(options "")(descr ""))
+  (lib (name "2022-04-09_19-01-42")(type "Legacy")(uri "/home/seb/KiCad/ul_TL3301AF160QG/KiCAD/2022-04-09_19-01-42/2022-04-09_19-01-42.lib")(options "")(descr ""))
+  (lib (name "small switch")(type "Legacy")(uri "/home/seb/KiCad/ul_PTS647SM38SMTR2LFS/KiCAD/2022-04-10_05-26-32/2022-04-10_05-26-32.lib")(options "")(descr ""))
+)
